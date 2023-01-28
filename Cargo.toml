@@ -1,0 +1,13 @@
+[package]
+name = "tree-data-structures"
+version = "0.1.0"
+authors = ["me <jkf16m@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "tree_DS"
+path = "src/tree.rs"
+
+[dependencies]
